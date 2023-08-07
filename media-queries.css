@@ -160,4 +160,12 @@
     .features-card{
         min-width: 100%;
     }
+
+    .examples-area{
+        gap: 20px;
+    }
+
+    .examples-card{
+        width: 100%;
+    }
 }
